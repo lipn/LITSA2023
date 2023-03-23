@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>December 4, 2023. Hosted by the <a href="https://www.cloud-conf.net/icdm2023/index.html">IEEE ICDM 2023</a> conference in Shanghai, China.</p>
-  header_text_feature_image: assets/img/shanghai-1477579.jpg
+  header_text_feature_image: assets/img/shanghai.jpg
   footer_text: >
    Organized with love by <a href="https://lipn.univ-paris13.fr/">LIPN (Université Sorbonne Paris Nord)</a>.<br/>
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

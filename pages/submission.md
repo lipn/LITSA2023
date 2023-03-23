@@ -5,20 +5,16 @@ permalink: /submission
 hide: false
 ---
 
-Workshop paper submissions take place on this page: [https://wi-lab.com/cyberchair/2021/icdm21/scripts/submit.php?subarea=S09](https://wi-lab.com/cyberchair/2021/icdm21/scripts/submit.php?subarea=S09).
+Workshop paper submissions take place on this page: ...
 
-All deadlines are **11:59pm Pacific Daylight Time (PDT)**.
+All deadlines are **All times are at 11:59PM Beijing Time**.
 
-* Workshop paper submissions: ~~September 3~~ <span style="color: red">September 12</span>, 2021
-* Workshop paper notification: September 24, 2021
-* **Camera-ready deadline and copyright forms: October 1, 2021**
-* **Conference registration deadline (at least 1 full regitrations per paper): October 11, 2021**
-* Video presentation deadline: November 11, 2021
-* Workshop date: December 7, 2021
+* Workshop paper submissions: September 3, 2023 
+* Workshop paper notification: September 24, 2023
+* Camera-ready deadline and copyright forms: October 1, 2023
+* Conference registration deadline (at least 1 full registration per paper): Oct. 15, 2023
+* Workshop date: December 4, 2023
 
 By the unique ICDM tradition, all accepted workshop papers will be published in the dedicated ICDMW proceedings published by the IEEE Computer Society Press.
 
-Please check the following links for deadlines and author instructions:
-
-* [https://icdm2021.auckland.ac.nz/key-dates/](https://icdm2021.auckland.ac.nz/key-dates/)
-* [https://icdm2021.auckland.ac.nz/instructions-authors/](https://icdm2021.auckland.ac.nz/instructions-authors/)
+Please check the following link for author instructions: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)

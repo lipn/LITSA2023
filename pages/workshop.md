@@ -29,3 +29,9 @@ This includes but is not restricted to the following topics:
 * Future research challenges of time series analysis
 
 Check the schedule [on this page](/LITSA2023/program)!
+
+### Past workshops
+
+* Large-scale Industrial Time Series Analysis (LITSA 2021), hosted by ICDM 2021: [https://lipn.github.io/LITSA2021/](https://lipn.github.io/LITSA2021/).
+* Large-scale Industrial Time Series Analysis (LITSA 2020), hosted by ICDM 2020: [https://lipn.github.io/LITSA2020](https://lipn.github.io/LITSA2020).
+

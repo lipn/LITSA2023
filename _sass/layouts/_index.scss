@@ -32,8 +32,35 @@
     }
 }
 
+$bp-small:  768px;
+$bp-medium: 1920px;
+$bp-large:  2000px;
+
+
+// Media Queries
+$mq-small: "(min-width: #{$bp-small})";
+$mq-medium: "(min-width: #{$bp-medium})";
+$mq-large: "(min-width: #{$bp-large})";
+
+
 #main {
     background-position: 100% 0, 0 center, center top;
+   
+
+@media #{$mq-small} {
+    height: 30vh;
+   
+  }
+
+@media #{$mq-medium} {
+    height: 56vh;
+   
+  }
+
+  @media #{$mq-large} {
+    height: 73vh;
+  }
+
 }
 
 // Post listing

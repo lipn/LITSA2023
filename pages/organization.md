@@ -14,7 +14,7 @@ hide: false
 
 The organizing team can be contacted by e-mail at `litsa23@gmail.com`.
 
-# Program committee
+# Program committee (Under construction)
 * Mohamed Djallel Dilmi, LIPN - Sorbonne Paris Nord University, France
 * [Anthony Coutant](https://www.linkedin.com/in/anthonycoutant/), LIPN - Sorbonne Paris Nord University, France
 * [Christian Derquenne](https://www.researchgate.net/profile/Christian_Derquenne), EDF, France

@@ -12,8 +12,7 @@ hide: false
 * [Hanene Azzag](https://sites.google.com/site/haneneazzag), LIPN - Sorbonne Paris Nord University, France
 * [Mustapha Lebbah](https://lipn.univ-paris13.fr/~lebbah), DAVID - Paris-Saclay University
 
-The organizing team can be contacted by e-mail at `litsa.icdm23@gmail.com`
-`.
+The organizing team can be contacted by e-mail at `litsa.icdm23@gmail.com`.
 
 # Program committee (Under construction)
 * Mohamed Djallel Dilmi, LIPN - Sorbonne Paris Nord University, France

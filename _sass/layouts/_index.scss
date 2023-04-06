@@ -38,12 +38,13 @@ $bp-large:  2000px;
 
 
 // Media Queries
+
 $mq-small: "(min-width: #{$bp-small})";
 $mq-medium: "(min-width: #{$bp-medium})";
 $mq-large: "(min-width: #{$bp-large})";
 
 
-#main {
+#main.call-out {
     background-position: 100% 0, 0 center, center top;
    
 

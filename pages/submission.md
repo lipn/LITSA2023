@@ -5,7 +5,7 @@ permalink: /submission
 hide: false
 ---
 
-Workshop paper submissions take place on this sitr: [https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S](https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S)
+Workshop paper submissions take place on this site: [https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S](https://wi-lab.com/cyberchair/2023/icdm23/scripts/ws_submit.php?subarea=S)
 
 All deadlines are **All times are at 11:59PM Beijing Time**.
 

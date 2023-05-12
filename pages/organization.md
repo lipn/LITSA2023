@@ -7,10 +7,10 @@ hide: false
 
 # Organization committee
 
-* [Reda Khoufache](https://sites.google.com/view/redakhoufache/home), DAVID - Paris-Saclay University
+* [Reda Khoufache](https://sites.google.com/view/redakhoufache/home), DAVID - Paris-Saclay University, University of versailles
 * [Florent Forest](https://florentfo.rest), IMOS - EPFL, Switzerland
 * [Hanene Azzag](https://sites.google.com/site/haneneazzag), LIPN - Sorbonne Paris Nord University, France
-* [Mustapha Lebbah](https://lipn.univ-paris13.fr/~lebbah), DAVID - Paris-Saclay University
+* [Mustapha Lebbah](https://lipn.univ-paris13.fr/~lebbah), DAVID - Paris-Saclay University, University of versailles
 
 The organizing team can be contacted by e-mail at `litsa.icdm23@gmail.com`.
 

@@ -21,3 +21,4 @@ The organizing team can be contacted by e-mail at `litsa.icdm23@gmail.com`.
 * [Haytham Elghazel](https://perso.univ-lyon1.fr/haytham.elghazel/),	University of Lyon 1,	France 
 * [Germain Forestier](https://germain-forestier.info/), University of	Haute-Alsace,	France
 * [Etienne Goffinet](https://etiennegoffi.net/), Technology Innovation Institute, United Arab Emirates
+* [Djamel Bouchaffra](http://djamelbouchaffra.com/), Center for Development of Advanced Technologies, Algeria

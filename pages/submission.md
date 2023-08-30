@@ -10,8 +10,8 @@ Workshop paper submissions take place on this site: [https://wi-lab.com/cybercha
 All deadlines are **All times are at 11:59PM Beijing Time**.
 
 * Workshop paper submissions: ~~September 3, 2023~~, <span style="color:red">**Extended deadline: September 15, 2023**</span> 
-* Workshop paper notification: September 30, 2023
-* Camera-ready deadline and copyright forms: October 15, 2023
+* Workshop paper notification: September 24, 2023
+* Camera-ready deadline and copyright forms:  October 1, 2023
 * Conference registration deadline (at least 1 full registration per paper): Oct. 15, 2023
 * Workshop date: December 4, 2023
 
